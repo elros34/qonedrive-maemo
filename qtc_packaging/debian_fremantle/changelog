@@ -1,0 +1,15 @@
+qonedrive (0.0.2) unstable; urgency=low
+
+  * Update token after 1h
+  * Remember refresh token
+  * Download/upload manager improved
+  * maemo-launcher support
+
+
+ -- elros34 <elros34@debian>  Sun, 15 May 2016 17:00:03 +0100
+
+qonedrive (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- elros34 <elros34@debian>  Thu, 12 Feb 2015 17:59:03 +0100
